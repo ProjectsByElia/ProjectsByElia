@@ -90,6 +90,12 @@ I am a blockchain and Web3 developer who enjoys building products across the ful
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=waqas&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqas&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&area_color=2ea043" alt="GitHub contribution graph" />
+</div>
+
 ## What I Am Building
 
 ```solidity
